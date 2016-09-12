@@ -1,8 +1,8 @@
 编号	面积	总价	单价	楼层	朝向	经纪人	电话	门店	链接
 831201	147	128	0.870748299	7/7					http://xian.koofang.com/sale/d-831201.html#roomstylepic
-822438	162	130	0.802469136	高楼层/共7层		闫鑫	15829031415	博林望庭国际店	http://xian.koofang.com/sale/d-822438.html#roomstylepic
-825593	147	125	0.850340136	高楼层/共7层		闫鑫	15829031415	博林望庭国际店	http://xian.koofang.com/sale/d-825593.html#roompic
-821073	147	125	0.850340136	高楼层/共7层		闫鑫	15829031415	博林望庭国际店	http://xian.koofang.com/sale/d-821073.html#roompic
+822438	162	130	0.802469136	11f/共7层		闫鑫	15829031415	博林望庭国际店	http://xian.koofang.com/sale/d-822438.html#roomstylepic
+825593	147	125	0.850340136	高楼层/共7层		闫鑫	15829031415	博林望庭国际店	http://xian.koofang.com/sale/d-825593.html#roompic  已卖
+821073	147	125	0.850340136	高楼层/共7层		闫鑫	15829031415	博林望庭国际店	http://xian.koofang.com/sale/d-821073.html#roompic 已卖
 829699	147	128	0.870748299	7/共7层	东南	张永涛	15202962970	泰嘉高新一中店	http://xian.koofang.com/sale/d-829699.html
 829463	118	95	0.805084746	2f/共7层		周建涛	18709227181	泰嘉高新一中店	http://xian.koofang.com/sale/d-829463.html  枫叶苑北区
 848916	142	128	0.901408451	高楼层/共7层		宋佳波	13679254175	泰嘉高新一中店	http://xian.koofang.com/sale/d-848916.html  要看的7F
